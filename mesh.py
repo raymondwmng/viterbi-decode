@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+##############################################
+# (c) 2016 Raymond Ng University of Sheffield
+##############################################
+
 import os,re,sys
 import gzip
 

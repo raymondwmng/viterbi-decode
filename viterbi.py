@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+##############################################
+# (c) 2016 Raymond Ng University of Sheffield
+##############################################
+
 import sys, re, os
 import numpy as np
 # from Queue import PriorityQueue
